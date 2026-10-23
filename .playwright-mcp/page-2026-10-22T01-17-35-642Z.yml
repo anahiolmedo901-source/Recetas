@@ -1,0 +1,39 @@
+- generic [ref=f14e3]:
+  - banner [ref=f14e4]:
+    - generic [ref=f14e5]:
+      - link "miga, ir al inicio" [ref=f14e6] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f14e10]: miga.
+      - button "Abrir menú" [ref=f14e11] [cursor=pointer]
+  - main [ref=f14e13]:
+    - generic [ref=f14e15]:
+      - complementary [ref=f14e16]:
+        - generic [ref=f14e18]:
+          - generic [ref=f14e19]: Tu cocina, tus recetas
+          - heading "Vuelve a la mesa." [level=1] [ref=f14e20]
+          - paragraph [ref=f14e21]: Tus favoritas te esperan. Entra para seguir descubriendo ideas que saben a casa.
+      - generic [ref=f14e22]:
+        - generic [ref=f14e23]: Iniciar sesión
+        - heading "Qué bueno verte." [level=2] [ref=f14e24]
+        - paragraph [ref=f14e25]: Entra para guardar y recuperar tus recetas favoritas.
+        - generic [ref=f14e26]:
+          - generic [ref=f14e27]:
+            - generic [ref=f14e28]: Correo electrónico
+            - textbox "Correo electrónico" [ref=f14e30]:
+              - /placeholder: hola@ejemplo.com
+          - generic [ref=f14e31]:
+            - generic [ref=f14e32]: Contraseña
+            - textbox "Contraseña" [ref=f14e34]:
+              - /placeholder: Tu contraseña
+          - button "Iniciar sesión" [ref=f14e35] [cursor=pointer]
+        - paragraph [ref=f14e38]:
+          - text: ¿Aún no tienes cuenta?
+          - link "Regístrate" [ref=f14e39] [cursor=pointer]:
+            - /url: /registro
+  - contentinfo [ref=f14e40]:
+    - generic [ref=f14e41]:
+      - generic [ref=f14e42]:
+        - text: miga
+        - generic [ref=f14e46]: .
+      - paragraph [ref=f14e47]: Ideas para cocinar despacio y compartir rápido.
+      - paragraph [ref=f14e48]: Hecho con cariño · 2026

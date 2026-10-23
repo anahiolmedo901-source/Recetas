@@ -1,0 +1,175 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - link "miga, ir al inicio" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e10]: miga.
+      - navigation "Navegación principal" [ref=e11]:
+        - link "Inicio" [ref=e12] [cursor=pointer]:
+          - /url: /
+        - link "Explorar recetas" [ref=e13] [cursor=pointer]:
+          - /url: /#recetas
+        - link "Sobre miga" [ref=e14] [cursor=pointer]:
+          - /url: /registro
+      - link "Crear cuenta" [ref=e16] [cursor=pointer]:
+        - /url: /registro
+  - main [ref=e20]:
+    - generic [ref=e21]:
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - generic [ref=e24]: Cocina con intención
+          - heading "Recetas que hacen espacio para lo importante." [level=1] [ref=e27]
+          - paragraph [ref=e28]: Ideas honestas, ingredientes cotidianos y ese pequeño empujón que faltaba para cocinar algo rico hoy.
+          - generic [ref=e29]:
+            - search [ref=e30]:
+              - searchbox "Buscar recetas" [ref=e34]
+              - button "Buscar" [ref=e35] [cursor=pointer]
+            - generic [ref=e37]:
+              - generic [ref=e38]: "Quizá buscas:"
+              - button "Pasta" [ref=e39] [cursor=pointer]
+              - button "Pollo" [ref=e40] [cursor=pointer]
+              - button "Postres" [ref=e41] [cursor=pointer]
+          - generic [ref=e42]:
+            - generic [ref=e43]: Ingredientes reales
+            - generic [ref=e47]: Para compartir
+        - generic [ref=e52]:
+          - generic [ref=e55]:
+            - img "Cuenco de comida fresca con verduras" [ref=e57]
+            - generic [ref=e66]:
+              - paragraph [ref=e67]: La receta del día
+              - paragraph [ref=e68]: Sabor sin complicarse
+          - generic [ref=e69]: ricorico
+      - link "Descubre" [ref=e72] [cursor=pointer]:
+        - /url: "#recetas"
+    - generic [ref=e75]:
+      - generic [ref=e76]:
+        - generic [ref=e77]:
+          - generic [ref=e78]: Para empezar con ganas
+          - heading "Una mesa llena de posibilidades." [level=2] [ref=e79]
+          - paragraph [ref=e80]: Recetas seleccionadas para que encuentres tu próxima favorita.
+        - link "Guarda tus favoritas" [ref=e81] [cursor=pointer]:
+          - /url: /registro
+      - generic [ref=e84]:
+        - article [ref=e124]:
+          - link "Ver receta Matar Paneer" [ref=e125] [cursor=pointer]:
+            - /url: /receta/52865
+            - generic [ref=e126]:
+              - img "Matar Paneer" [ref=e127]
+              - generic [ref=e129]: Receta
+              - generic [ref=e133]:
+                - generic [ref=e134]: Tiempo variable
+                - generic [ref=e138]: India
+            - heading "Matar Paneer" [level=3] [ref=e140]
+        - article [ref=e145]:
+          - link "Ver receta Baingan Bharta" [ref=e146] [cursor=pointer]:
+            - /url: /receta/52807
+            - generic [ref=e147]:
+              - img "Baingan Bharta" [ref=e148]
+              - generic [ref=e150]: Receta
+              - generic [ref=e154]:
+                - generic [ref=e155]: Tiempo variable
+                - generic [ref=e159]: India
+            - heading "Baingan Bharta" [level=3] [ref=e161]
+        - article [ref=e166]:
+          - link "Ver receta Sichuan Style Stir-Fried Chinese Long Beans" [ref=e167] [cursor=pointer]:
+            - /url: /receta/53371
+            - generic [ref=e168]:
+              - img "Sichuan Style Stir-Fried Chinese Long Beans" [ref=e169]
+              - generic [ref=e171]: Receta
+              - generic [ref=e175]:
+                - generic [ref=e176]: Tiempo variable
+                - generic [ref=e180]: Chinese
+            - heading "Sichuan Style Stir-Fried Chinese Long Beans" [level=3] [ref=e182]
+        - article [ref=e187]:
+          - link "Ver receta Arroz con Leche Recipe" [ref=e188] [cursor=pointer]:
+            - /url: /receta/53522
+            - generic [ref=e189]:
+              - img "Arroz con Leche Recipe" [ref=e190]
+              - generic [ref=e192]: Receta
+              - generic [ref=e196]: Tiempo variable
+            - heading "Arroz con Leche Recipe" [level=3] [ref=e202]
+        - article [ref=e207]:
+          - link "Ver receta Vietnamese chicken salad" [ref=e208] [cursor=pointer]:
+            - /url: /receta/53232
+            - generic [ref=e209]:
+              - img "Vietnamese chicken salad" [ref=e210]
+              - generic [ref=e212]: Receta
+              - generic [ref=e216]:
+                - generic [ref=e217]: Tiempo variable
+                - generic [ref=e221]: Vietnamese
+            - heading "Vietnamese chicken salad" [level=3] [ref=e223]
+        - article [ref=e228]:
+          - link "Ver receta Teriyaki Chicken Casserole" [ref=e229] [cursor=pointer]:
+            - /url: /receta/52772
+            - generic [ref=e230]:
+              - img "Teriyaki Chicken Casserole" [ref=e231]
+              - generic [ref=e233]: Receta
+              - generic [ref=e237]:
+                - generic [ref=e238]: Tiempo variable
+                - generic [ref=e242]: Japanese
+            - heading "Teriyaki Chicken Casserole" [level=3] [ref=e244]
+        - article [ref=e249]:
+          - link "Ver receta Tom kha gai" [ref=e250] [cursor=pointer]:
+            - /url: /receta/53207
+            - generic [ref=e251]:
+              - img "Tom kha gai" [ref=e252]
+              - generic [ref=e254]: Receta
+              - generic [ref=e258]:
+                - generic [ref=e259]: Tiempo variable
+                - generic [ref=e263]: Thai
+            - heading "Tom kha gai" [level=3] [ref=e265]
+        - article [ref=e270]:
+          - link "Ver receta Croatian Bean Stew" [ref=e271] [cursor=pointer]:
+            - /url: /receta/53058
+            - generic [ref=e272]:
+              - img "Croatian Bean Stew" [ref=e273]
+              - generic [ref=e275]: Receta
+              - generic [ref=e279]:
+                - generic [ref=e280]: Tiempo variable
+                - generic [ref=e284]: Croatian
+            - heading "Croatian Bean Stew" [level=3] [ref=e286]
+        - article [ref=e291]:
+          - link "Ver receta Tafelspitz" [ref=e292] [cursor=pointer]:
+            - /url: /receta/53447
+            - generic [ref=e293]:
+              - img "Tafelspitz" [ref=e294]
+              - generic [ref=e296]: Receta
+              - generic [ref=e300]: Tiempo variable
+            - heading "Tafelspitz" [level=3] [ref=e306]
+        - article [ref=e311]:
+          - link "Ver receta Chocolate Souffle" [ref=e312] [cursor=pointer]:
+            - /url: /receta/52905
+            - generic [ref=e313]:
+              - img "Chocolate Souffle" [ref=e314]
+              - generic [ref=e316]: Receta
+              - generic [ref=e320]:
+                - generic [ref=e321]: Tiempo variable
+                - generic [ref=e325]: France
+            - heading "Chocolate Souffle" [level=3] [ref=e327]
+        - article [ref=e332]:
+          - link "Ver receta Chocolate Coconut Squares" [ref=e333] [cursor=pointer]:
+            - /url: /receta/53101
+            - generic [ref=e334]:
+              - img "Chocolate Coconut Squares" [ref=e335]
+              - generic [ref=e337]: Receta
+              - generic [ref=e341]:
+                - generic [ref=e342]: Tiempo variable
+                - generic [ref=e346]: Australian
+            - heading "Chocolate Coconut Squares" [level=3] [ref=e348]
+        - article [ref=e353]:
+          - link "Ver receta Vanilla alfajores" [ref=e354] [cursor=pointer]:
+            - /url: /receta/53321
+            - generic [ref=e355]:
+              - img "Vanilla alfajores" [ref=e356]
+              - generic [ref=e358]: Receta
+              - generic [ref=e362]:
+                - generic [ref=e363]: Tiempo variable
+                - generic [ref=e367]: Uruguayan
+            - heading "Vanilla alfajores" [level=3] [ref=e369]
+  - contentinfo [ref=e115]:
+    - generic [ref=e116]:
+      - generic [ref=e117]:
+        - text: miga
+        - generic [ref=e121]: .
+      - paragraph [ref=e122]: Ideas para cocinar despacio y compartir rápido.
+      - paragraph [ref=e123]: Hecho con cariño · 2026

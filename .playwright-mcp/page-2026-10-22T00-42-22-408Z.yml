@@ -1,0 +1,61 @@
+- generic [ref=f3e3]:
+  - banner [ref=f3e4]:
+    - generic [ref=f3e5]:
+      - link "miga, ir al inicio" [ref=f3e6] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f3e10]: miga.
+      - navigation "Navegación principal" [ref=f3e11]:
+        - link "Inicio" [ref=f3e12] [cursor=pointer]:
+          - /url: /
+        - link "Explorar recetas" [ref=f3e13] [cursor=pointer]:
+          - /url: /#recetas
+        - link "Sobre miga" [ref=f3e14] [cursor=pointer]:
+          - /url: /registro
+      - link "Crear cuenta" [ref=f3e16] [cursor=pointer]:
+        - /url: /registro
+  - main [ref=f3e20]:
+    - generic [ref=f3e22]:
+      - complementary [ref=f3e23]:
+        - generic [ref=f3e26]:
+          - generic [ref=f3e27]: Un sitio para ti
+          - heading "Una buena receta empieza con ganas." [level=1] [ref=f3e31]
+          - paragraph [ref=f3e32]: Crea tu cuenta para guardar ideas, volver a tus favoritas y hacer de la cocina tu lugar preferido.
+          - generic [ref=f3e33]:
+            - generic [ref=f3e34]: Guarda tus recetas favoritas
+            - generic [ref=f3e38]: Descubre ideas según tu momento
+            - generic [ref=f3e42]: Cocina a tu propio ritmo
+      - generic [ref=f3e46]:
+        - generic [ref=f3e47]:
+          - generic [ref=f3e48]: Crear cuenta
+          - heading "Bienvenido a miga." [level=2] [ref=f3e49]
+          - paragraph [ref=f3e50]: Solo necesitamos unos datos para preparar tu espacio.
+        - generic [ref=f3e51]:
+          - generic [ref=f3e52]:
+            - generic [ref=f3e53]: Nombre
+            - textbox "Nombre" [ref=f3e55]:
+              - /placeholder: Tu nombre
+          - generic [ref=f3e56]:
+            - generic [ref=f3e57]: Correo electrónico
+            - textbox "Correo electrónico" [ref=f3e59]:
+              - /placeholder: hola@ejemplo.com
+          - generic [ref=f3e60]:
+            - generic [ref=f3e61]: Contraseña
+            - generic [ref=f3e62]:
+              - textbox "Contraseña" [ref=f3e63]:
+                - /placeholder: Mínimo 6 caracteres
+              - button "Mostrar contraseña" [ref=f3e64] [cursor=pointer]
+          - generic [ref=f3e68]:
+            - generic [ref=f3e69]: Confirmar contraseña
+            - generic [ref=f3e70]:
+              - textbox "Confirmar contraseña" [ref=f3e71]:
+                - /placeholder: Mínimo 6 caracteres
+              - button "Mostrar confirmación" [ref=f3e72] [cursor=pointer]
+          - paragraph [ref=f3e76]: Al registrarte aceptas recibir inspiración ocasional para cocinar mejor, nunca spam.
+          - button "Crear mi cuenta" [ref=f3e77] [cursor=pointer]
+  - contentinfo [ref=f3e78]:
+    - generic [ref=f3e79]:
+      - generic [ref=f3e80]:
+        - text: miga
+        - generic [ref=f3e84]: .
+      - paragraph [ref=f3e85]: Ideas para cocinar despacio y compartir rápido.
+      - paragraph [ref=f3e86]: Hecho con cariño · 2026

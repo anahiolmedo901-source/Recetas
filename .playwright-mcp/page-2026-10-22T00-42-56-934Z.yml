@@ -1,0 +1,57 @@
+- generic [ref=f4e3]:
+  - banner [ref=f4e4]:
+    - generic [ref=f4e5]:
+      - link "miga, ir al inicio" [ref=f4e6] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f4e10]: miga.
+      - navigation "Navegación principal" [ref=f4e11]:
+        - link "Inicio" [ref=f4e12] [cursor=pointer]:
+          - /url: /
+        - link "Explorar recetas" [ref=f4e13] [cursor=pointer]:
+          - /url: /#recetas
+        - link "Sobre miga" [ref=f4e14] [cursor=pointer]:
+          - /url: /registro
+      - link "Crear cuenta" [ref=f4e16] [cursor=pointer]:
+        - /url: /registro
+  - main [ref=f4e20]:
+    - generic [ref=f4e21]:
+      - generic [ref=f4e22]:
+        - generic [ref=f4e23]:
+          - generic [ref=f4e24]: Cocina con intención
+          - heading "Recetas que hacen espacio para lo importante." [level=1] [ref=f4e27]
+          - paragraph [ref=f4e28]: Ideas honestas, ingredientes cotidianos y ese pequeño empujón que faltaba para cocinar algo rico hoy.
+          - generic [ref=f4e29]:
+            - search [ref=f4e30]:
+              - searchbox "Buscar recetas" [ref=f4e34]
+              - button "Buscar" [ref=f4e35] [cursor=pointer]
+            - generic [ref=f4e37]:
+              - generic [ref=f4e38]: "Quizá buscas:"
+              - button "Pasta" [ref=f4e39] [cursor=pointer]
+              - button "Pollo" [ref=f4e40] [cursor=pointer]
+              - button "Postres" [ref=f4e41] [cursor=pointer]
+          - generic [ref=f4e42]:
+            - generic [ref=f4e43]: Ingredientes reales
+            - generic [ref=f4e47]: Para compartir
+        - generic [ref=f4e52]:
+          - generic [ref=f4e55]:
+            - img "Cuenco de comida fresca con verduras" [ref=f4e57]
+            - generic [ref=f4e66]:
+              - paragraph [ref=f4e67]: La receta del día
+              - paragraph [ref=f4e68]: Sabor sin complicarse
+          - generic [ref=f4e69]: ricorico
+      - link "Descubre" [ref=f4e72] [cursor=pointer]:
+        - /url: "#recetas"
+    - generic [ref=f4e76]:
+      - generic [ref=f4e77]:
+        - generic [ref=f4e78]: Para empezar con ganas
+        - heading "Una mesa llena de posibilidades." [level=2] [ref=f4e79]
+        - paragraph [ref=f4e80]: Recetas seleccionadas para que encuentres tu próxima favorita.
+      - link "Guarda tus favoritas" [ref=f4e81] [cursor=pointer]:
+        - /url: /registro
+  - contentinfo [ref=f4e115]:
+    - generic [ref=f4e116]:
+      - generic [ref=f4e117]:
+        - text: miga
+        - generic [ref=f4e121]: .
+      - paragraph [ref=f4e122]: Ideas para cocinar despacio y compartir rápido.
+      - paragraph [ref=f4e123]: Hecho con cariño · 2026
